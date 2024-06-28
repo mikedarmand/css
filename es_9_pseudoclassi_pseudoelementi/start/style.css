@@ -23,4 +23,7 @@ a {
 		background-color: gold;
 		margin: 8px;
 }
+.link:hover{
+   color: aqua;
+}
 
