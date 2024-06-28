@@ -1,0 +1,36 @@
+table{
+    border: 1px;
+    background-color: #263238;
+    width: 50%;
+
+}
+caption{
+    background-color:  #263238;
+    font-style: bold;
+    font-size: 18px;
+    margin: 10px;
+}
+thead{
+    background-color: #455a64 ;
+    font-family: white;
+    font-weight: 700;
+}
+tr{
+    color: #eceff1  #b0bec5;
+}
+table tr:last-child{
+     font-weight: 800;
+     font: #78909c;
+}
+tbody tr:nth-child(2){
+    font: #003300;
+}
+tbody tr:last-child{
+    font: #7f0000;
+}
+tr:nth-child(2){
+    right: auto;
+}
+tr:last-child{
+    right: auto;
+}
